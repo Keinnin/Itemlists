@@ -4831,7 +4831,7 @@
       "defName": "SR_HalfSaiyanRace",
       "enabled": true,
       "name": "half saiyan",
-      "price": 2500
+      "price": 7292
     },
     {
       "data": {
@@ -4852,7 +4852,7 @@
       "defName": "SR_SaiyanRace",
       "enabled": true,
       "name": "saiyan",
-      "price": 2500
+      "price": 7292
     }
   ]
 }
